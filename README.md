@@ -1,6 +1,6 @@
 # 🎈 Streamlit Interactive Apps Collection
 
-A collection of interactive web applications and UI components built with **Python** and **Streamlit**.
+A collection of interactive web applications, data tools, and UI components built with **Python** and **Streamlit**.
 
 ---
 
@@ -21,10 +21,17 @@ A collection of interactive web applications and UI components built with **Pyth
   ```
 
 ### 3. **Guess the Number Game (`mk3.py`)**
-* Interactive game utilizing `st.session_state` for game loop management, attempts tracking, and dynamic state resets.
+* Interactive game utilizing `st.session_state` for stateful game loop management, attempts tracking, and dynamic state resets.
 * **Run**:
   ```bash
   streamlit run mk3.py
+  ```
+
+### 4. **Customer & Course Enquiry Portal (`mk4.py`)**
+* Comprehensive enquiry and lead-capture form featuring `st.form` batching, dual-column contact layouts, interactive budget sliders, field validation, and dynamic receipt generation.
+* **Run**:
+  ```bash
+  streamlit run mk4.py
   ```
 
 ---
@@ -33,12 +40,12 @@ A collection of interactive web applications and UI components built with **Pyth
 
 ```bash
 # Clone the repository
-git clone https://github.com/iamwarriorofmyuniverse-coder/streamlit-apps.git
-cd streamlit-apps
+git clone https://github.com/iamwarriorofmyuniverse-coder/my-streamlit-app.git
+cd my-streamlit-app
 
 # Install Streamlit
 pip install -r requirements.txt
 
 # Run any application
-streamlit run mk2.py
+streamlit run mk4.py
 ```
