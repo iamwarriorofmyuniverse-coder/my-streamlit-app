@@ -1,0 +1,21 @@
+Date,Product,Category,Units_sold,Revenue,Region
+01-05-2026,Laptop,e,6,100000,North
+01-05-2026,Phone,e,8,70000,South
+02-05-2026,iphone,e,2,5000,North
+03-05-2026,earbuds,e,10,5000,East
+04-05-2026,pc,e,2,30000,North
+05-05-2026,computer,e,2,50000,West
+06-05-2026,chair,f,4,40000,North
+07-05-2026,desk,f,4,50000,South
+08-05-2026,printer,e,4,60000,North
+09-05-2026,watch,e,10,20000,East
+10-05-2026,Smart Watch,Accessories,12,36000,West
+11-05-2026,Denim Jacket,Clothing,15,22500,South
+12-05-2026,Microwave,Appliances,3,27000,East
+13-05-2026,Running Shoes,Clothing,8,16000,North
+14-05-2026,Backpack,Accessories,20,18000,West
+15-05-2026,Coffee Maker,Appliances,5,15000,South
+16-05-2026,Mechanical Keyboard,Electronics,7,21000,East
+17-05-2026,Air Conditioner,Appliances,2,70000,North
+18-05-2026,Sunglasses,Accessories,14,14000,West
+19-05-2026,Cotton T-Shirt,Clothing,25,12500,South

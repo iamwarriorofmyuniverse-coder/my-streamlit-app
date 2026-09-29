@@ -1,0 +1,11 @@
+Date,Product,Category,Units_sold,Revenue,Region
+01-05-2026,Laptop,e,6,100000,North
+01-05-2026,Phone,e,8,70000,South
+02-05-2026,iphone,e,2,5000,North
+03-05-2026,earbuds,e,10,5000,East
+04-05-2026,pc,e,2,30000,North
+05-05-2026,computer,e,2,50000,West
+06-05-2026,chair,f,4,40000,North
+07-05-2026,desk,f,4,50000,South
+08-05-2026,printer,e,4,60000,North
+09-05-2026,watch,e,10,20000,East
